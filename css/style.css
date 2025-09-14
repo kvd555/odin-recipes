@@ -1,0 +1,45 @@
+* {
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.card {
+  background-color: #a6e0ebb9;
+  width: 600px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #01b6e3;
+  text-shadow: 1px 1px 2px rgb(12, 8, 62);
+}
+
+.nav {
+  width: 25%;
+  margin-left: 14px;
+  margin-bottom: 10px;
+  border: 1px dashed #0b1d37;
+  background-color: rgba(237, 235, 128, 0.835);
+}
+
+.nav-item {
+  padding: 4px 8px;
+}
+
+a {
+  color: rgb(43, 200, 48);
+  text-decoration: none;
+  text-shadow: 0px 1px black;
+}
